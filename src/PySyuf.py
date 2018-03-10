@@ -24,7 +24,7 @@ def getPlayerInfoById(videoID):
 
 
 def decipherFunction(decipherScript):
-		signatureCall = decipherScript.split('("signature",')
+		signatureCall = decipherScript.split('||"signature",')
 		signatureLen = len(signatureCall)
 		signatureFunction = ''
 		for i in range(signatureLen-1,0,-1):
