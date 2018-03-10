@@ -8,7 +8,7 @@ Name:PySyuf
 Description: Simpler Youtube URL Fetcher
 Version:0.1
 Code: danielchc
-Last edit: 28/10/2017
+Last edit: 10/03/2018
 """
 
 """Start decipher"""
