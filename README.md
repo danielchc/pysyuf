@@ -1,4 +1,6 @@
 # PySyuf
+## Deprecated
+
 Simpler Youtube URL Fetcher
 
 [![GitHub issues](https://img.shields.io/github/issues/danielchc/PySyuf.svg)](https://github.com/danielchc/PySyuf/issues)
